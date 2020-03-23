@@ -1,0 +1,4 @@
+name = "NewPackage"
+uuid = "8768b726-a7e2-4864-a912-6a82f7e0d572"
+authors = ["Andrew Gatherer <gatherer@stanford.edu>"]
+version = "0.1.0"
